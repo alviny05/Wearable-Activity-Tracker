@@ -1,4 +1,4 @@
-# Quest 3: From Motion to Meaning
+# Wearable Activity Tracker
 
 Authors: Justin Nascimento, Alvin Yan
 
