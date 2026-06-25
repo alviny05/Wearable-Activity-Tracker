@@ -76,21 +76,6 @@ In our training video, you can see that Alvin and I stand like penguins to achie
 - [Link to video technical presentation](https://youtu.be/nJlDULR8Ouc). Not to exceed 120s
 - [Link to video demo](https://youtu.be/L82VQVqEBTA). Not to exceed 120s
 
-### Self-Assessment
-
-| Objective Criterion | Rating | Max Value  |
-|---------------------------------------------|:-----------:|:---------:|
-| Objective One | 1 |  1     |
-| Objective Two | 1 |  1     |
-| Objective Three | 1 |  1     |
-| Objective Four | 1 |  1     |
-| Objective Five | 1 |  1     |
-| Objective Six | 1 |  1     |
-| Objective Seven | 1 |  1     |
-| Objective Eight | 1 |  1     |
-| Objective Nine | 1 |  1     |
-
-
 
 ### AI and Open Source Code Assertions
 
